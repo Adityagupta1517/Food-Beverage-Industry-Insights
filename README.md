@@ -1,10 +1,16 @@
 # Food-Beverage-Industry-Insights
-About Designed a Power BI dashboard and using SQL to understand CodeX is a German beverage company that is aiming to make its mark in the Indian market. A few months ago, they launched their energy drink in 10 cities in India.
-Food & Beverage Industry Insights.
+Project: Market Analysis for CodeX's Energy Drink Launch
 
+Situation: CodeX, a German beverage company, launched its energy drink across 10 cities in India. The company's marketing team seeks to enhance brand awareness, expand market share, and refine product development. To achieve this, a survey was conducted, gathering feedback from 10,000 respondents across the targeted cities.
 
-Situation: CodeX, a German beverage company, recently launched its energy drink in India. The marketing team aims to increase brand awareness, market share, and product development. To gather insights, a survey was conducted in 10 cities, generating responses from 10,000 respondents.
+Task: Extract key insights from the survey data to inform and optimize marketing strategies.
 
-Task: To extracted key insights from survey result to drive marketing strategies.
+Action: Designed and developed a comprehensive Power BI dashboard to visualize and analyze survey results. Utilized MySQL for data extraction and cleansing, and integrated insights using Microsoft Power BI to present findings. Enhanced the report with visual elements created in Canva and utilized OBS Studio and InShot for video summaries. Leveraged AI tools like ChatGPT and Bard to support data analysis and generate actionable insights.
 
-Action: Created a report presenting my analysis from market survey results. Tools and Techniques used- MySQL Microsoft Power BI Canva OBS Studio InShot AI tools(ChatGpt, Bard)
+Tools and Techniques Used:
+
+MySQL: Data extraction and cleansing
+Microsoft Power BI: Dashboard creation and data visualization
+Canva: Visual enhancements
+OBS Studio & InShot: Video summaries and presentations
+AI Tools (ChatGPT, Bard): Data analysis support and insights generation
